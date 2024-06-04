@@ -783,5 +783,14 @@
         "icon": "Calibre_B.png",
         "author": "jxxghp",
         "level": 1
+    },
+    "PlexTools": {
+        "name": "Plex工具箱",
+        "description": "美化plex海报,添加媒体信息",
+        "labels": "Plex",
+        "version": "1.0",
+        "icon": "https://raw.githubusercontent.com/Alano-i/Mbot-Plugins/main/MP-Plugins/plextools/logo.jpg",
+        "author": "BeiMou",
+        "level": 1
     }
 }
