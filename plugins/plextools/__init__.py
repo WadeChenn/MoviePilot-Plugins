@@ -19,7 +19,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.cron import CronTrigger
 types = {"movie": 1, "show": 2, "artist": 8, "album": 9, 'track': 10}
 TYPES = {"movie": [1], "show": [2], "artist": [8, 9, 10]}
-class plextools(_PluginBase):
+class PlexTools(_PluginBase):
     # 插件名称
     plugin_name = "Plex工具箱"
     # 插件描述
